@@ -1,2 +1,2 @@
 # BattleTendency
-Primeiro real
+Primeiro
