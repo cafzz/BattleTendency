@@ -1,11 +1,12 @@
 body{
-    background-color:darkolivegreen;}
+    background-color:darkolivegreen;
+    border-radius:initial;
+    border-style:solid;
+    border-color:black;
 h1{
     color:darkgoldenrod;
     font-size: larger;
-    border-radius: initial;
-    border-style:solid;
-    border-color:black
+ 
 }
 h2{
     color:grey;
@@ -15,4 +16,4 @@ li{
     color:darkgoldenrod;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
-}
+}}
